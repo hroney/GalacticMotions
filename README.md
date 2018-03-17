@@ -8,7 +8,7 @@
 - [Equations of motion](#equations-of-motion)
 - [Modelling/Simulation idea](#modellingsimulation-idea)
 - [Numerical Integration](#numerical-integration)
-- [Examples](#Examples)
+- [Examples](#examples)
 
 ## Equations of motion
 
