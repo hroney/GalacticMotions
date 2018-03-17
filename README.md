@@ -19,7 +19,8 @@ Lets take $N>>1$ (e.g. 10 000 or more) particles and model their movements in th
 
 ![equation](http://latex.codecogs.com/gif.latex?-%5Cfrac%7B1%7D%7B%5Cbar%7Bm%7D%7D%5Csum_%7Bj%5Cneq%20i%7D%5Cfrac%7Bm_j%5Cleft%28%5Ctilde%7BZ%7D_i-%5Ctilde%7BZ%7D_j%20%5Cright%29%7D%7B%5Cleft%5B%5Cleft%28%5Ctilde%7BX%7D_i-%5Ctilde%7BX%7D_j%20%5Cright%20%29%5E2-%5Cleft%28%20%5Ctilde%7BY%7D_i-%5Ctilde%7BY%7D_j%20%5Cright%20%29%5E2-%5Cleft%28%5Ctilde%7BZ%7D_i-%5Ctilde%7BZ%7D_j%20%5Cright%29%5E2%20%5Cright%20%5D%5E%7B3/2%7D%7D%3D%5Cfrac%7B1%7D%7B%5Ctilde%7Ba%7D%7D%5Cleft%28%5Cfrac%7Bd%5E2%20%5Ctilde%7BZ%7D_i%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D%5Ctilde%7Ba%7D-%5Cfrac%7Bd%5E2%5Ctilde%7Ba%7D%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D%5Ctilde%7BZ%7D_i%5Cright%29%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%283%29)
 
-(text)
+Here ![equation](http://latex.codecogs.com/gif.latex?%5Ctilde%7BX%7D_i%2C%20%5Ctilde%7BY%7D_i%2C%20%5Ctilde%7BZ%7D_i) are the functions of the normalized time ![equation](http://latex.codecogs.com/gif.latex?%5Ctilde%7Bt%7D), i.e. normalized "physical" Cartesian coordinates of the i-th particle (i = 1; 2;:::; N), mi? its mass, m = (m1 + m2 +::: + mN) = N? the average mass of all particles,
+?? a? function of normalized time ?? t? normalized scale factor:
 
 ![equation](http://latex.codecogs.com/gif.latex?%5Ctilde%7Ba%7D%3D%5Cleft%28%5Cfrac%7B%5COmega_M%7D%7B%5COmega_%5CLambda%7D%20%5Cright%20%29%5E%7B1/3%7D%5Cleft%5B%5Cleft%281&plus;%5Cfrac%7B%5COmega_%5CLambda%7D%7B%5COmega_M%7D%5Cright%29%5E%7B1/2%7D%5Csinh%5Cleft%28%5Cfrac%7B3%7D%7B2%7D%5COmega_%5CLambda%5E%7B1/2%7D%5Ctilde%7Bt%7D%5Cright%29&plus;%5Cleft%28%5Cfrac%7B%5COmega_%5CLambda%7D%7B%5COmega_M%7D%5Cright%20%29%5E%7B1/2%7D%5Ccosh%5Cleft%28%5Cfrac%7B3%7D%7B2%7D%5COmega_%5CLambda%5E%7B1/2%7D%5Ctilde%7Bt%7D%5Cright%29%5Cright%20%5D%5E%7B2/3%7D%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%284%29)
 
