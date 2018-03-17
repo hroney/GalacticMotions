@@ -11,7 +11,7 @@ We consider astrophysical objects deep inside the cell of uniformity (i.e. $R<15
 
 ## Modelling/Simulation
 
-Lets take $N>>1$ (e.g. 10 000 or more) particles and model their movements in the "box": $0<x,y,z<1$, (leaving the considered region of space on the one hand, the particle gets into it with the opposite one, as in standard molecular dynamics). The distance between the particles is appropriately carried out
+Lets take N>>1 (e.g. 10 000 or more) particles and model their movements in the "box": $0<x,y,z<1$, (leaving the considered region of space on the one hand, the particle gets into it with the opposite one, as in standard molecular dynamics). The distance between the particles is appropriately carried out
 
 ![equation](http://latex.codecogs.com/gif.latex?-%5Cfrac%7B1%7D%7B%5Cbar%7Bm%7D%7D%5Csum_%7Bj%5Cneq%20i%7D%5Cfrac%7Bm_j%5Cleft%28%5Ctilde%7BX%7D_i-%5Ctilde%7BX%7D_j%20%5Cright%29%7D%7B%5Cleft%5B%5Cleft%28%5Ctilde%7BX%7D_i-%5Ctilde%7BX%7D_j%20%5Cright%20%29%5E2-%5Cleft%28%20%5Ctilde%7BY%7D_i-%5Ctilde%7BY%7D_j%20%5Cright%20%29%5E2-%5Cleft%28%5Ctilde%7BZ%7D_i-%5Ctilde%7BZ%7D_j%20%5Cright%29%5E2%20%5Cright%20%5D%5E%7B3/2%7D%7D%3D%5Cfrac%7B1%7D%7B%5Ctilde%7Ba%7D%7D%5Cleft%28%5Cfrac%7Bd%5E2%20%5Ctilde%7BX%7D_i%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D%5Ctilde%7Ba%7D-%5Cfrac%7Bd%5E2%5Ctilde%7Ba%7D%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D%5Ctilde%7BX%7D_i%5Cright%29%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%281%29)
 
@@ -24,7 +24,7 @@ Here ![equation](http://latex.codecogs.com/gif.latex?%5Ctilde%7BX%7D_i%2C%20%5Ct
 
 ![equation](http://latex.codecogs.com/gif.latex?%5Ctilde%7Ba%7D%3D%5Cleft%28%5Cfrac%7B%5COmega_M%7D%7B%5COmega_%5CLambda%7D%20%5Cright%20%29%5E%7B1/3%7D%5Cleft%5B%5Cleft%281&plus;%5Cfrac%7B%5COmega_%5CLambda%7D%7B%5COmega_M%7D%5Cright%29%5E%7B1/2%7D%5Csinh%5Cleft%28%5Cfrac%7B3%7D%7B2%7D%5COmega_%5CLambda%5E%7B1/2%7D%5Ctilde%7Bt%7D%5Cright%29&plus;%5Cleft%28%5Cfrac%7B%5COmega_%5CLambda%7D%7B%5COmega_M%7D%5Cright%20%29%5E%7B1/2%7D%5Ccosh%5Cleft%28%5Cfrac%7B3%7D%7B2%7D%5COmega_%5CLambda%5E%7B1/2%7D%5Ctilde%7Bt%7D%5Cright%29%5Cright%20%5D%5E%7B2/3%7D%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%284%29)
 
-where ![equation](http://latex.codecogs.com/gif.latex?%5COmega_M%5Capprox0.31) and ![equation](http://latex.codecogs.com/gif.latex?%5COmega_%5CLambda%5Capprox0.69). Present values are ![equation](http://latex.codecogs.com/gif.latex?%5Ctilde%7Bt%7D), ![equation](http://latex.codecogs.com/gif.latex?%5Ctilde%7Bt%7D).
+where ![equation](http://latex.codecogs.com/gif.latex?%5COmega_M%5Capprox0.31) and ![equation](http://latex.codecogs.com/gif.latex?%5COmega_%5CLambda%5Capprox0.69). Present values are ![equation](http://latex.codecogs.com/gif.latex?%5Ctilde%7Bt%7D%3D0), ![equation](http://latex.codecogs.com/gif.latex?%5Ctilde%7Ba%7D%3D1).
 
 ![equation](http://latex.codecogs.com/gif.latex?-%5Cfrac%7B1%7D%7B%5Cbar%7Bm%7D%5Ctilde%7Ba%7D%5E3%7D%5Csum_%7Bj%5Cneq%20i%7D%5Cfrac%7Bm_j%5Cleft%28%5Ctilde%7Bx%7D_i-%5Ctilde%7Bx%7D_j%20%5Cright%29%7D%7B%5Cleft%5B%5Cleft%28%5Ctilde%7Bx%7D_i-%5Ctilde%7Bx%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%20%5Ctilde%7By%7D_i-%5Ctilde%7By%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%5Ctilde%7Bz%7D_i-%5Ctilde%7Bz%7D_j%20%5Cright%29%5E2%20%5Cright%20%5D%5E%7B3/2%7D%7D%3D%5Cfrac%7Bd%5E2%20%5Ctilde%7Bx%7D_i%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D&plus;%5Cfrac%7B2%7D%7B%5Ctilde%7Ba%7D%7D%5Cfrac%7Bd%5Ctilde%7Ba%7D%7D%7Bd%5Ctilde%7Bt%7D%7D%5Cfrac%7Bd%5Ctilde%7Bx%7D_i%7D%7Bd%5Ctilde%7Bt%7D%7D%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%285%29)
 
