@@ -5,9 +5,9 @@
 
 ## Table of Contents (Optional)
 
-- [Equations of motion](#Equations)
-- [Modelling/Simulation idea](#Modelling/Simulation idea)
-- [Numerical Integration](#Numerical Integration)
+- [Equations of motion](#equations-of-motion)
+- [Modelling/Simulation idea](#Modelling/Simulation-idea)
+- [Numerical Integration](#Numerical-Integration)
 - [Examples](#Examples)
 
 ## Equations of motion
