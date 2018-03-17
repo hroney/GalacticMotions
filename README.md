@@ -32,7 +32,7 @@ where ![equation](http://latex.codecogs.com/gif.latex?%5COmega_M%5Capprox0.31) a
 
 ![equation](http://latex.codecogs.com/gif.latex?-%5Cfrac%7B1%7D%7B%5Cbar%7Bm%7D%5Ctilde%7Ba%7D%5E3%7D%5Csum_%7Bj%5Cneq%20i%7D%5Cfrac%7Bm_j%5Cleft%28%5Ctilde%7Bz%7D_i-%5Ctilde%7Bz%7D_j%20%5Cright%29%7D%7B%5Cleft%5B%5Cleft%28%5Ctilde%7Bx%7D_i-%5Ctilde%7Bx%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%20%5Ctilde%7By%7D_i-%5Ctilde%7By%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%5Ctilde%7Bz%7D_i-%5Ctilde%7Bz%7D_j%20%5Cright%29%5E2%20%5Cright%20%5D%5E%7B3/2%7D%7D%3D%5Cfrac%7Bd%5E2%20%5Ctilde%7Bz%7D_i%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D&plus;%5Cfrac%7B2%7D%7B%5Ctilde%7Ba%7D%7D%5Cfrac%7Bd%5Ctilde%7Ba%7D%7D%7Bd%5Ctilde%7Bt%7D%7D%5Cfrac%7Bd%5Ctilde%7Bz%7D_i%7D%7Bd%5Ctilde%7Bt%7D%7D%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%287%29)
 
-(text)
+Further transition to the "not-tilde" co-ordinates xi, yi, zi gives
 
 ![equation](http://latex.codecogs.com/gif.latex?-%5Cfrac%7B1%7D%7B%5Cbar%7Bm%7D%5Ctilde%7Ba%7D%5E3%7D%5Csum_%7Bj%5Cneq%20i%7D%5Cfrac%7Bm_j%5Cleft%28%5Ctilde%7Bx%7D_i-%5Ctilde%7Bx%7D_j%20%5Cright%29%7D%7B%5Cleft%5B%5Cleft%28%5Ctilde%7Bx%7D_i-%5Ctilde%7Bx%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%20%5Ctilde%7By%7D_i-%5Ctilde%7By%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%5Ctilde%7Bz%7D_i-%5Ctilde%7Bz%7D_j%20%5Cright%29%5E2%20%5Cright%20%5D%5E%7B3/2%7D%7D%3D%5Cleft%28%5Cfrac%7Bd%5E2%20%5Ctilde%7Bx%7D_i%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D&plus;%5Cfrac%7B2%7D%7B%5Ctilde%7Ba%7D%7D%5Cfrac%7Bd%5Ctilde%7Ba%7D%7D%7Bd%5Ctilde%7Bt%7D%7D%5Cfrac%7Bd%5Ctilde%7Bx%7D_i%7D%7Bd%5Ctilde%7Bt%7D%7D%5Cright%29a_0%5E3%5Cleft%28%5Cfrac%7BH_0%5E2%7D%7BG_N%5Cbar%7Bm%7D%7D%20%5Cright%20%29%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%288%29)
 
