@@ -3,6 +3,15 @@
 > This project is based on the paper arXiv:1211.4045. The main idea is to visualize the dynamical behavior of astrophysical objects 
 (e.g. galaxies) taking into account both the gravitational attraction between them and the cosmological expansion of the Universe
 
+## Table of Contents (Optional)
+
+> If you're `README` has a lot of info, section headers might be nice.
+
+- [Equations of motion](#equationsofmotion)
+- [Modelling/Simulation idea](#simulation)
+- [Numerical Integration](#integration)
+- [Examples](#examples)
+
 ## Equations of motion
 
 > Here I rewrite the equations of motion  for the appropriate numerical modelling (please, refer to the arXiv:1211.4045 for complete theoretical description). 
