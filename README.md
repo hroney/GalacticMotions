@@ -7,10 +7,10 @@
 
 > If you're `README` has a lot of info, section headers might be nice.
 
-- [Equations of motion](#equationsofmotion)
-- [Modelling/Simulation idea](#simulation)
-- [Numerical Integration](#integration)
-- [Examples](#examples)
+- [Equations of motion](#Equations of motion)
+- [Modelling/Simulation idea](#Modelling/Simulation idea)
+- [Numerical Integration](#Numerical Integration)
+- [Examples](#Examples)
 
 ## Equations of motion
 
