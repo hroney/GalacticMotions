@@ -9,7 +9,7 @@ We consider astrophysical objects deep inside the cell of uniformity (i.e. $R<15
 
 (formula)
 
-## Modelling/Simulation
+## Modelling/Simulation idea
 
 Lets take $N>>1$ (e.g. 10 000 or more) particles and model their movements in the "box": $0<x,y,z<1$, (leaving the considered region of space on the one hand, the particle gets into it with the opposite one, as in standard molecular dynamics). The distance between the particles is appropriately carried out
 
