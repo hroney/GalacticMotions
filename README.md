@@ -19,5 +19,9 @@ The numerators of the fractions in the right-hand sides of equations (5), (6) an
 If we take the modern average value of a typical pecular velocity equal to 300 km/s, then it will be $0.1\%$ of the speed of light $c$. Given the inverse relationship between this relationship and the large-scale factor a, we can expect that the developed mechanical approach is valid until the moment when this ratio is, for example, $1\%$. In accordance with (4), this will happen when (formula). Exactly this moment of the past can be taken as the original one.
 The initial (at the found moment of the past) distribution of particles with respect to the spatial coordinates, velocities and masses is given "by hands". For example, the x-component is "physical" pecular velocity vph x = adx = dt = H0a0 ?? adx = d ?? t = H0a0l ?? ad? x = d ?? t, whence d € x = d ?? t = vphx = (H0a0l ?? a). Initial velocities d should be taken about this value, where ?? a = 0: 1, and as vph x it is necessary to take value (formula).
 
+Equations (16) - (18) can be integrated numerically as follows. At the initial time ?? tin = -0: 95, the coordinates of the particles € xi ( ?? tin) and the velocity d € xi ( ?? tin ) = d ?? t. From the equations (16) - (18) find initial accelerations d2 € xi ( ?? tin ) = d ?? t2. Then, according to the initial velocities and accelerations, and the velocity of the particles at time tin +. ?? t:
+
+(formula)
+
 ## Examples
 
