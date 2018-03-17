@@ -21,7 +21,7 @@ Lets take $N>>1$ (e.g. 10 000 or more) particles and model their movements in th
 
 (text)
 
-(formula)
+![equation](http://latex.codecogs.com/gif.latex?%5Ctilde%7Ba%7D%3D%5Cleft%28%5Cfrac%7B%5COmega_M%7D%7B%5COmega_%5CLambda%7D%20%5Cright%20%29%5E%7B1/3%7D%5Cleft%5B%5Cleft%281&plus;%5Cfrac%7B%5COmega_%5CLambda%7D%7B%5COmega_M%7D%5Cright%29%5E%7B1/2%7D%5Csinh%5Cleft%28%5Cfrac%7B3%7D%7B2%7D%5COmega_%5CLambda%5E%7B1/2%7D%5Ctilde%7Bt%7D%5Cright%29&plus;%5Cleft%28%5Cfrac%7B%5COmega_%5CLambda%7D%7B%5COmega_M%7D%5Cright%20%29%5E%7B1/2%7D%5Ccosh%5Cleft%28%5Cfrac%7B3%7D%7B2%7D%5COmega_%5CLambda%5E%7B1/2%7D%5Ctilde%7Bt%7D%5Cright%29%5Cright%20%5D%5E%7B2/3%7D%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%284%29)
 
 (text)
 
