@@ -49,9 +49,13 @@ Lets take $N>>1$ (e.g. 10 000 or more) particles and model their movements in th
 
 where
 
-(formula)
+![equation](http://latex.codecogs.com/gif.latex?%5Ctilde%7Bl%7D%3Dla_0%5Cleft%28%5Cfrac%7BH_0%5E2%7D%7BG_N%5Cbar%7Bm%7D%7D%5Cright%29%5E%7B1/3%7D%3D%5Cleft%28%5Cfrac%7B8%5Cpi%20N%7D%7B3%5COmega_M%7D%5Cright%29%5E%7B1/3%7D%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%2814a%29)
+
+![equation](http://latex.codecogs.com/gif.latex?l%3D%5Cfrac%7B1%7D%7Ba_0%7D%5Cleft%28%5Cfrac%7B8%5Cpi%20N%20G_N%5Cbar%7Bm%7D%7D%7B3%5COmega_M%20H_0%5E2%7D%5Cright%29%5E%7B1/3%7D%3D%5Cfrac%7B1%7D%7Ba_0%7D%5Cleft%28%5Cfrac%7B8%5Cpi%20N%20G_N%5Cbar%7Bm%7D%7D%7B3H_0%5E2%7D%5Ccdot%5Cfrac%7B3H_0%5E2a_0%5E3%7D%7B8%5Cpi%20G_N%5Cbar%7B%5Crho%7D%7D%5Cright%29%5E%7B1/3%7D%3D%5Cfrac%7B1%7D%7Ba_0%7D%5Cleft%28%5Cfrac%7BN%5Cbar%7Bm%7Da_0%5E3%7D%7B%5Cbar%7B%5Crho%7D%7D%5Cright%29%5E%7B1/3%7D%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%2814b%29)
 
 i.e.
+
+where N is the total amount of particles. Consequently,
 
 ![equation](http://latex.codecogs.com/gif.latex?-%5Cfrac%7B1%7D%7BN%5Cbar%7Bm%7D%5Ctilde%7Ba%7D%5E3%7D%5Csum_%7Bj%5Cneq%20i%7D%5Cfrac%7Bm_j%5Cleft%28%5Chat%7Bx%7D_i-%5Chat%7Bx%7D_j%20%5Cright%29%7D%7B%5Cleft%5B%5Cleft%28%5Chat%7Bx%7D_i-%5Chat%7Bx%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%20%5Chat%7By%7D_i-%5Chat%7By%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%5Chat%7Bz%7D_i-%5Chat%7Bz%7D_j%20%5Cright%29%5E2%20%5Cright%20%5D%5E%7B3/2%7D%7D%3D%5Cleft%28%5Cfrac%7Bd%5E2%20%5Chat%7Bx%7D_i%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D&plus;%5Cfrac%7B2%7D%7B%5Ctilde%7Ba%7D%7D%5Cfrac%7Bd%5Ctilde%7Ba%7D%7D%7Bd%5Ctilde%7Bt%7D%7D%5Cfrac%7Bd%5Chat%7Bx%7D_i%7D%7Bd%5Ctilde%7Bt%7D%7D%5Cright%29%5Cfrac%7B8%5Cpi%7D%7B3%5COmega_M%7D%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%2816%29)
 
