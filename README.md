@@ -7,7 +7,7 @@
 
 > Here I rewrite the equations of motion  for the appropriate numerical modelling (please, refer to the arXiv:1211.4045 for complete theoretical description). 
 
-Lets take N>>1 (e.g. 10 000 or more) particles and model their movements in the "box": $0<x,y,z<1$, (leaving the considered region of space on the one hand, the particle gets into it with the opposite one, as in standard molecular dynamics). The distance between the particles is appropriately carried out
+Lets take ![equation](http://latex.codecogs.com/gif.latex?N%5Cgg1) (e.g. 10 000 or more) particles and model their movements in the "box": $0<x,y,z<1$, (leaving the considered region of space on the one hand, the particle gets into it with the opposite one, as in standard molecular dynamics). The distance between the particles is appropriately carried out
 
 ![equation](http://latex.codecogs.com/gif.latex?-%5Cfrac%7B1%7D%7B%5Cbar%7Bm%7D%7D%5Csum_%7Bj%5Cneq%20i%7D%5Cfrac%7Bm_j%5Cleft%28%5Ctilde%7BX%7D_i-%5Ctilde%7BX%7D_j%20%5Cright%29%7D%7B%5Cleft%5B%5Cleft%28%5Ctilde%7BX%7D_i-%5Ctilde%7BX%7D_j%20%5Cright%20%29%5E2-%5Cleft%28%20%5Ctilde%7BY%7D_i-%5Ctilde%7BY%7D_j%20%5Cright%20%29%5E2-%5Cleft%28%5Ctilde%7BZ%7D_i-%5Ctilde%7BZ%7D_j%20%5Cright%29%5E2%20%5Cright%20%5D%5E%7B3/2%7D%7D%3D%5Cfrac%7B1%7D%7B%5Ctilde%7Ba%7D%7D%5Cleft%28%5Cfrac%7Bd%5E2%20%5Ctilde%7BX%7D_i%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D%5Ctilde%7Ba%7D-%5Cfrac%7Bd%5E2%5Ctilde%7Ba%7D%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D%5Ctilde%7BX%7D_i%5Cright%29%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%281%29)
 
