@@ -65,7 +65,7 @@ where N is the total amount of particles. Consequently,
 
 Obviously, ![equation](http://latex.codecogs.com/gif.latex?N%5Cbar%7Bm%7D%3Dm_1&plus;m_2&plus;...&plus;m_N%3Dm_%7Btotal%7D) is the total mass of all considered paticles.
 
-## Modelling/Simulation
+## Modelling/Simulation idea
 
 Lets take ![equation](http://latex.codecogs.com/gif.latex?N%5Cgg1) (e.g. 10 000 or more) particles and model their movements in the "box": $0<x,y,z<1$, (leaving the considered region of space on the one hand, the particle gets into it with the opposite one, as in standard molecular dynamics). The distance between the particles is appropriately carried out
 
