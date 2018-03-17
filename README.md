@@ -5,7 +5,7 @@
 
 ## Modelling/Simulation
 
-> Here we rewrite the equations of motion  for the appropriate numerical modelling (please, refer to the arXiv:1211.4045 for complete theoretical description). 
+> Here I rewrite the equations of motion  for the appropriate numerical modelling (please, refer to the arXiv:1211.4045 for complete theoretical description). 
 
 Lets take N>>1 (e.g. 10 000 or more) particles and model their movements in the "box": $0<x,y,z<1$, (leaving the considered region of space on the one hand, the particle gets into it with the opposite one, as in standard molecular dynamics). The distance between the particles is appropriately carried out
 
