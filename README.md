@@ -7,7 +7,11 @@
 
 We consider astrophysical objects deep inside the cell of uniformity (i.e. $R<150$Mpc). The comoving distances in the cell of uniformity are much less than 1: $li ≪ 1$ -> we can use the Cartesian coordinates. Thus, we can write
 
-(formula)
+![equation](http://latex.codecogs.com/gif.latex?-%5Cfrac%7B1%7D%7B%5Cbar%7Bm%7D%7D%5Csum_%7Bj%5Cneq%20i%7D%5Cfrac%7Bm_j%5Cleft%28%5Ctilde%7BX%7D_i-%5Ctilde%7BX%7D_j%20%5Cright%29%7D%7B%5Cleft%5B%5Cleft%28%5Ctilde%7BX%7D_i-%5Ctilde%7BX%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%20%5Ctilde%7BY%7D_i-%5Ctilde%7BY%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%5Ctilde%7BZ%7D_i-%5Ctilde%7BZ%7D_j%20%5Cright%29%5E2%20%5Cright%20%5D%7D%3D%5Cfrac%7B1%7D%7B%5Ctilde%7Ba%7D%7D%5Cleft%28%5Cfrac%7Bd%5E2%20%5Ctilde%7BX%7D_i%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D%5Ctilde%7Ba%7D-%5Cfrac%7Bd%5E2%5Ctilde%7Ba%7D%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D%5Ctilde%7BX%7D_i%5Cright%29%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%281%29)
+
+![equation](http://latex.codecogs.com/gif.latex?-%5Cfrac%7B1%7D%7B%5Cbar%7Bm%7D%7D%5Csum_%7Bj%5Cneq%20i%7D%5Cfrac%7Bm_j%5Cleft%28%5Ctilde%7BY%7D_i-%5Ctilde%7BY%7D_j%20%5Cright%29%7D%7B%5Cleft%5B%5Cleft%28%5Ctilde%7BX%7D_i-%5Ctilde%7BX%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%20%5Ctilde%7BY%7D_i-%5Ctilde%7BY%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%5Ctilde%7BZ%7D_i-%5Ctilde%7BZ%7D_j%20%5Cright%29%5E2%20%5Cright%20%5D%7D%3D%5Cfrac%7B1%7D%7B%5Ctilde%7Ba%7D%7D%5Cleft%28%5Cfrac%7Bd%5E2%20%5Ctilde%7BY%7D_i%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D%5Ctilde%7Ba%7D-%5Cfrac%7Bd%5E2%5Ctilde%7Ba%7D%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D%5Ctilde%7BY%7D_i%5Cright%29%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%282%29)
+
+![equation](http://latex.codecogs.com/gif.latex?-%5Cfrac%7B1%7D%7B%5Cbar%7Bm%7D%7D%5Csum_%7Bj%5Cneq%20i%7D%5Cfrac%7Bm_j%5Cleft%28%5Ctilde%7BZ%7D_i-%5Ctilde%7BZ%7D_j%20%5Cright%29%7D%7B%5Cleft%5B%5Cleft%28%5Ctilde%7BX%7D_i-%5Ctilde%7BX%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%20%5Ctilde%7BY%7D_i-%5Ctilde%7BY%7D_j%20%5Cright%20%29%5E2&plus;%5Cleft%28%5Ctilde%7BZ%7D_i-%5Ctilde%7BZ%7D_j%20%5Cright%29%5E2%20%5Cright%20%5D%7D%3D%5Cfrac%7B1%7D%7B%5Ctilde%7Ba%7D%7D%5Cleft%28%5Cfrac%7Bd%5E2%20%5Ctilde%7BZ%7D_i%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D%5Ctilde%7Ba%7D-%5Cfrac%7Bd%5E2%5Ctilde%7Ba%7D%7D%7Bd%5Ctilde%7Bt%7D%5E2%7D%5Ctilde%7BZ%7D_i%5Cright%29%2C%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%5Cquad%20%283%29)
 
 ## Modelling/Simulation idea
 
