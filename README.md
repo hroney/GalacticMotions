@@ -101,7 +101,9 @@ Equations (16) - (18) can be integrated numerically as follows. At the initial t
 
 **As the space stretches itself...**
 
-<img src="/examples/disappearing_galaxies1.gif?raw=true" width="800px">
+<p align="center">
+  <img src="/examples/disappearing_galaxies1.gif?raw=true" width="800px"/>
+</p>
 
 **...galaxies should eventually dissapear from view**
 
