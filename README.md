@@ -103,6 +103,6 @@ Equations (16) - (18) can be integrated numerically as follows. At the initial t
 
 <img src="/examples/disappearing_galaxies1.gif?raw=true" width="800px">
 
-**...galaxies should eventually dissapear from view***
+**...galaxies should eventually dissapear from view**
 
 <img src="/examples/disappearing_galaxies2.gif?raw=true" width="800px">
