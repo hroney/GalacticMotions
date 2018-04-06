@@ -91,4 +91,18 @@ Equations (16) - (18) can be integrated numerically as follows. At the initial t
 
 ## Examples
 
-<img src="/examples/8BJlJCFnv2.gif?raw=true" width="800px">
+**We can choose either same type of galaxies...**
+
+<img src="/examples/same_galaxies.gif?raw=true" width="800px">
+
+**or a different one**
+
+<img src="/examples/different_galaxies.gif?raw=true" width="800px">
+
+**As the space stretches itself...**
+
+<img src="/examples/disappearing_galaxies1.gif?raw=true" width="800px">
+
+**...galaxies should eventually dissapear from view***
+
+<img src="/examples/disappearing_galaxies2.gif?raw=true" width="800px">
