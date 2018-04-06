@@ -91,4 +91,4 @@ Equations (16) - (18) can be integrated numerically as follows. At the initial t
 
 ## Examples
 
-<img src="/examples/8BJlJCFnv2.gif?raw=true" width="200px">
+<img src="/examples/8BJlJCFnv2.gif?raw=true" width="800px">
